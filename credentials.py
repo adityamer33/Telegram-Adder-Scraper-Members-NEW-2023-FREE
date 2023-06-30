@@ -1,6 +1,6 @@
 # enter your API credentials below - generate at https://my.telegram.org/auth
-api_id = 123456789
-api_hash = "46sadasd8asd46a8sa4d6ad48"
+api_id = 28867937
+api_hash = "6fae6638ccadf4140c40ae4693962465"
 
 #THIS IS JUST A GENERIC API_ID AND API_HASH!
 
